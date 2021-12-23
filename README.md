@@ -24,6 +24,7 @@ By default the application is programmed to repeat what you said.
 System Requirements:
 1. Windows 10 and Above
 2. Latest Python installed
+3. Visual Studios Code (recommended)
 
 Python Libraries to be imported in the system before using the application:
 1. speech_recognition (pip install SpeechRecognition)
