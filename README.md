@@ -32,3 +32,5 @@ Python Libraries to be imported in the system before using the application:
 3. gtts (pip install gTTS)
 4. pyjokes (pip install pyjokes)
 5. cv2 (pip install opencv-python)
+
+New Updates Coming Soon!!
